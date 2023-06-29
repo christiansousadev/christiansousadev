@@ -5,6 +5,8 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full%20Stack%20Developer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/dea02d51-f912-4fca-8f91-79cc5c8e0722" width = 200px></picture>
@@ -18,8 +20,6 @@
 - This is [my resume](https://drive.google.com/file/d/1I-dj1p6mnO-CyaQMRio5iHngM_tzF1i5/view?usp=sharing)
 
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -160,16 +160,27 @@
 <br>
 <div align='left'>
 
- <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em>
+ <em><b>These are my social networks for professional contacts.</b></em>
  
 <br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/christiansousadev/" target="_blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="christiansousa-linkedin" height="40" width="45" /></a>
 &nbsp;
-<a href="https://christiansousadev.com.br" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/5523afa7-9f5e-4907-afba-84623d5445c4" alt="christiansousa_site" height="45" width="50" /></a> &nbsp;
-<a href="mailto:christiansousadev@gmail.com" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/cf2c3ab8-0bdf-44fd-a297-0461b84b38a1" alt="christiansousadev@gmail.com" height="60" width="55" /></a> &nbsp;
-<a href="https://api.whatsapp.com/send?phone=5585996123246" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/4bb6864f-b7a1-4bd3-ad1f-5d5a76493db5" alt="christiansousa_whatsapp" height="55" width="60"></a>
+<a href="https://christiansousadev.com.br" target="_blank"><img align="center" src="https://i.imgur.com/bHL0cUS.gif" alt="christiansousa_site" height="45" width="50" /></a>
+&nbsp;
+<a href="mailto:christiansousadev@gmail.com" target="_blank"><img align="center" src="https://i.imgur.com/lMwP5Cj.gif" alt="christiansousadev@gmail.com" height="60" width="55" /></a>
+&nbsp;
+<a href="https://api.whatsapp.com/send?phone=5585996123246" target="_blank"><img align="center" src="https://i.imgur.com/U5YAxlq.gif" alt="christiansousa_whatsapp" height="55" width="60"></a>
+&nbsp;
+
+<div align='center'>
+
+ <em><b>Christian Sousa | 2023</b></em> <br>
+ &nbsp;
+ <em><b>www.christiansousadev.com.br</b></em>
+ 
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
