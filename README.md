@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
 <h1 align="center"> Hi, there! My name is Christian Sousa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -7,15 +7,15 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/4e88bfdd-f12e-44c0-9aee-6108734394e5" width = 200px></picture>
+<picture> <img align="right" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/dea02d51-f912-4fca-8f91-79cc5c8e0722" width = 200px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.christiansousadev.com.br)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1I-dj1p6mnO-CyaQMRio5iHngM_tzF1i5/view?usp=sharing)
+- Experience with frontend and backend
+- Passionate with robotics
+- Computer Science Student
+- Personal [Linktree](https://linktr.ee/christiansousadev)
+- This is [my resume](https://drive.google.com/file/d/1I-dj1p6mnO-CyaQMRio5iHngM_tzF1i5/view?usp=sharing)
 
 <br><br>
 
@@ -45,11 +45,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christiansousadev&bg_color=000000&color=6A5ACD&line=A020F0&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
  
+ 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="left">
 
-- 📋 Languages, Library and Frameworks:
+- ### 📋 Languages, Library and Frameworks:
     
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -82,12 +83,12 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
     
-- ☁️ Cloud:
+- ### ☁️ Cloud:
 
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
     ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
     
-- ♾️ DevOps:
+- ### ♾️ DevOps:
 
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -95,13 +96,13 @@
     ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
     
-- 💾 Databases:
+- ### 💾 Databases:
 
     ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
-- 🎛️ Operating Systen:
+- ### 🎛️ Operating System:
 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -113,7 +114,7 @@
     ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
     ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
     
-- 💻 IDEs/Editors:
+- ### 💻 IDEs/Editors:
 
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
     ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -124,7 +125,7 @@
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     
-- 🥅 Others:
+- ### 🥅 Others:
 
     ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
     ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -165,10 +166,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/christiansousadev/" target="_blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="christiansousa-linkedin" height="40" width="45" /></a>
-&nbsp;<a href="https://christiansousadev.com.br" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/5523afa7-9f5e-4907-afba-84623d5445c4" alt="christiansousa_site" height="45" width="50" /></a>  
-&nbsp;<a href="mailto:christiansousadev@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="christiansousadev@gmail.com" height="50" width="45" /></a>      
-&nbsp;<a href="https://api.whatsapp.com/send?phone=5585996123246" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/4bb6864f-b7a1-4bd3-ad1f-5d5a76493db5" alt="christiansousa_whatsapp" height="55" width="60"></a>
+&nbsp;
+<a href="https://christiansousadev.com.br" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/5523afa7-9f5e-4907-afba-84623d5445c4" alt="christiansousa_site" height="45" width="50" /></a> &nbsp;
+<a href="mailto:christiansousadev@gmail.com" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/cf2c3ab8-0bdf-44fd-a297-0461b84b38a1" alt="christiansousadev@gmail.com" height="60" width="55" /></a> &nbsp;
+<a href="https://api.whatsapp.com/send?phone=5585996123246" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/4bb6864f-b7a1-4bd3-ad1f-5d5a76493db5" alt="christiansousa_whatsapp" height="55" width="60"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
