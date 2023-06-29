@@ -1,21 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-<h1 align="center"> Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hi, there! My name is Christian Sousa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=E%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full%20Stack%20Developer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/4e88bfdd-f12e-44c0-9aee-6108734394e5" width = 200px></picture>
 
 <br>
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Personal website [link](https://www.christiansousadev.com.br)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1I-dj1p6mnO-CyaQMRio5iHngM_tzF1i5/view?usp=sharing)
 
 <br><br>
 
@@ -27,16 +27,16 @@
 <p align="center">
 	<img
 		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiansousadev&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiansousadev&&layout=compact&bg_color=000000&theme=cobalt"
 	/>
 	<img
 		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=christiansousadev&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
+		src="https://github-readme-stats.vercel.app/api?username=christiansousadev&count_private=true&show_icons=trueline_height=21&bg_color=000000&theme=cobalt"
 	/>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christiansousadev&theme=dracula">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christiansousadev&theme=radical">
 	<img
 		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=christiansousadev&theme=onedark"
+		src="https://github-profile-trophy.vercel.app/?username=christiansousadev&theme=radical"
 	/>
 </p>
 
@@ -164,14 +164,10 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/christiansousadev/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a>
-&nbsp;<a href="https://christiansousadev.com.br" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif" alt="sarath_pm" height="40" width="47" /></a>  
-&nbsp;<a href="mailto:christiansousadev@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="christiansousadev@gmail.com" width="40" /></a>      
-&nbsp;<a href="https://www.hackerrank.com/sarath_pm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="sarath_pm" height="40" width="45"></a>
-
-
-  
-
+<a href="https://www.linkedin.com/in/christiansousadev/" target="_blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="christiansousa-linkedin" height="40" width="45" /></a>
+&nbsp;<a href="https://christiansousadev.com.br" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/5523afa7-9f5e-4907-afba-84623d5445c4" alt="christiansousa_site" height="45" width="50" /></a>  
+&nbsp;<a href="mailto:christiansousadev@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="christiansousadev@gmail.com" height="50" width="45" /></a>      
+&nbsp;<a href="https://api.whatsapp.com/send?phone=5585996123246" target="_blank"><img align="center" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/4bb6864f-b7a1-4bd3-ad1f-5d5a76493db5" alt="christiansousa_whatsapp" height="55" width="60"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
