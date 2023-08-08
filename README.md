@@ -167,11 +167,11 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/christiansousadev/" target="_blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="christiansousa-linkedin" height="40" width="45" /></a>
 &nbsp;
-<a href="https://christiansousadev.com.br" target="_blank"><img align="center" src="https://i.imgur.com/bHL0cUS.gif" alt="christiansousa_site" height="45" width="50" /></a>
+<a href="https://christiansousadev.com.br" target="_blank"><img align="center" src="https://i.imgur.com/BTsNul3.gif" alt="christiansousa_site" height="40" width="50" /></a>
 &nbsp;
-<a href="mailto:christiansousadev@gmail.com" target="_blank"><img align="center" src="https://i.imgur.com/lMwP5Cj.gif" alt="christiansousadev@gmail.com" height="60" width="55" /></a>
+<a href="mailto:christiansousadev@gmail.com" target="_blank"><img align="center" src="https://i.imgur.com/uL1TLty.gif" alt="christiansousadev@gmail.com" height="40" width="50" /></a>
 &nbsp;
-<a href="https://api.whatsapp.com/send?phone=5585996123246" target="_blank"><img align="center" src="https://i.imgur.com/U5YAxlq.gif" alt="christiansousa_whatsapp" height="55" width="60"></a>
+<a href="https://api.whatsapp.com/send?phone=5585996123246" target="_blank"><img align="center" src="https://i.imgur.com/cORNRrL.gif" alt="christiansousa_whatsapp" height="55" width="60"></a>
 &nbsp;
 <a href="https://t.me/christiansousadev" target="_blank"><img align="center" src="https://i.imgur.com/v7NzSA9.gif" alt="christiansousa_telegram" height="45" width="50"></a>
 &nbsp;
