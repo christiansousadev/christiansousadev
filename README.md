@@ -173,7 +173,7 @@
 &nbsp;
 <a href="https://api.whatsapp.com/send?phone=5585996123246" target="_blank"><img align="center" src="https://i.imgur.com/U5YAxlq.gif" alt="christiansousa_whatsapp" height="55" width="60"></a>
 &nbsp;
-<a href="https://api.whatsapp.com/send?phone=5585996123246" target="_blank"><img align="center" src="https://i.imgur.com/mV5VJ8n.gif" alt="christiansousa_telegram" height="50" width="70"></a>
+<a href="https://t.me/christiansousadev" target="_blank"><img align="center" src="https://i.imgur.com/v7NzSA9.gif" alt="christiansousa_telegram" height="45" width="50"></a>
 &nbsp;
 
 <div align='center'>
