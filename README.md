@@ -165,9 +165,9 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/christiansousadev/" target="_blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="christiansousa-linkedin" height="40" width="45" /></a>
+<a href="https://www.linkedin.com/in/christiansousasilva/" target="_blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="christiansousa-linkedin" height="40" width="45" /></a>
 &nbsp;
-<a href="https://christiansousadev.com.br" target="_blank"><img align="center" src="https://i.imgur.com/BTsNul3.gif" alt="christiansousa_site" height="40" width="50" /></a>
+<a href="https://madebychristian.fusaotecno.com" target="_blank"><img align="center" src="https://i.imgur.com/BTsNul3.gif" alt="christiansousa_site" height="40" width="50" /></a>
 &nbsp;
 <a href="mailto:christiansousadev@gmail.com" target="_blank"><img align="center" src="https://i.imgur.com/uL1TLty.gif" alt="christiansousadev@gmail.com" height="40" width="50" /></a>
 &nbsp;
@@ -178,9 +178,9 @@
 
 <div align='center'>
 
- <em><b>Christian Sousa | 2024</b></em> <br>
+ <em><b>Christian Sousa | 2026</b></em> <br>
  &nbsp;
- <em><b>www.christiansousadev.com.br</b></em>
+ <em><b>www.madebychristian.fusaotecno.com</b></em>
  
 <br>
 
