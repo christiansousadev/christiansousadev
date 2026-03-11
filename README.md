@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://madebychristian.fusaotecno.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full%20Stack%20Developer;Automation%20%26%20AI%20Solutions;Data%20Architecture%20Enthusiast&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Automation%20%26%20API%20Integration;Data%20%26%20LLMs%20Enthusiast;IT%20Governance%20Driven&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40">
   </a>
 </p>
 
@@ -14,18 +14,19 @@
 
 <picture> <img align="right" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/dea02d51-f912-4fca-8f91-79cc5c8e0722" width = "180px"></picture>
 
-- 🚀 **Software Engineer** focused on developing intelligent automation and high-performance applications.
-- 🛠️ Expert in **Full Stack Development**, bridging the gap between complex backends and intuitive frontends.
-- 🧠 Deeply interested in **AI Architectures** and how they can optimize accounting and financial workflows.
+- 🚀 **Software Engineer** focused on developing intelligent automation and robust API integrations.
+- 🛠️ Expert in orchestrating processes, bridging the gap between complex data architectures and IT Governance.
+- 🧠 Deeply experienced in applying **LLMs** and machine learning to optimize accounting, financial, and operational workflows.
+
 - 🌐 Explore my full work: **[madebychristian.fusaotecno.com](https://madebychristian.fusaotecno.com/)**
 
 <br>
 
 ## 🔥 Core Expertise
 
-- **Full Stack:** Crafting scalable systems with **Python (FastAPI)**, **Node.js**, and **React/Next.js**.
-- **AI & Automation:** Implementing AI-driven solutions and orchestrating workflows with **n8n**.
-- **Data Engineering:** Designing robust data structures with **SQL (PostgreSQL)** and BI reporting via **Metabase**.
+- **Development & APIs:** Crafting scalable systems and RESTful APIs with **Python (FastAPI)** and **Node.js**.
+- **AI & Automation:** Orchestrating complex workflows with **n8n** and integrating **LLMs** (GPT/Gemini) for intelligent decision-making.
+- **Data & Governance:** Designing robust data pipelines with **SQL (PostgreSQL)** and executive BI reporting via **Metabase** to ensure compliance and track SLAs.
 - **DevOps:** Containerization with **Docker** and managing cloud-ready environments on Linux.
 
 ---
