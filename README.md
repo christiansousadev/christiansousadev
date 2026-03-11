@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://madebychristian.fusaotecno.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full%20Stack%20Developer;Automation%20%26%20AI%20Enthusiast;Data%20Driven%20Solutions&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full%20Stack%20Developer;Automation%20%26%20AI%20Solutions;Data%20Architecture%20Enthusiast&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40">
   </a>
 </p>
 
@@ -14,30 +14,40 @@
 
 <picture> <img align="right" src="https://github.com/christiansousadev/christiansousadev/assets/103544118/dea02d51-f912-4fca-8f91-79cc5c8e0722" width = "180px"></picture>
 
-- 🚀 **Software Engineer** dedicated to building scalable, efficient, and user-centric applications.
-- 🛠️ Specialized in **Full Stack Development** with a strong focus on automation and API integrations.
-- 🎓 **Computer Science Student** passionate about software architecture and clean code.
-- 🌐 Explore my work: **[Portfolio Site](https://madebychristian.fusaotecno.com/)**
+- 🚀 **Software Engineer** focused on developing intelligent automation and high-performance applications.
+- 🛠️ Expert in **Full Stack Development**, bridging the gap between complex backends and intuitive frontends.
+- 🧠 Deeply interested in **AI Architectures** and how they can optimize accounting and financial workflows.
+- 🌐 Explore my full work: **[madebychristian.fusaotecno.com](https://madebychristian.fusaotecno.com/)**
 
 <br>
 
-## 🔥 Tech Stack & Expertise
+## 🔥 Core Expertise
 
-- **Development:** Building robust backends with **Python (FastAPI)** and dynamic frontends with **React/Next.js**.
-- **Automation:** Orchestrating complex workflows using **n8n** and custom automation scripts.
-- **Data & BI:** Proficient in **SQL (PostgreSQL)**, data modeling, and visualization using **Metabase**.
-- **DevOps & Infra:** Deploying and managing environments with **Docker** and Linux systems.
+- **Full Stack:** Crafting scalable systems with **Python (FastAPI)**, **Node.js**, and **React/Next.js**.
+- **AI & Automation:** Implementing AI-driven solutions and orchestrating workflows with **n8n**.
+- **Data Engineering:** Designing robust data structures with **SQL (PostgreSQL)** and BI reporting via **Metabase**.
+- **DevOps:** Containerization with **Docker** and managing cloud-ready environments on Linux.
 
 ---
 
-## 🚀 Featured Project: ITSM Health Dashboard
-**A Full-Stack Solution for Strategic Data Monitoring**
+## 🤖 Featured AI Project: ChatContabil Architecture
+**AI-Powered Accounting Intelligence**
 
-An end-to-end platform that transforms operational data into actionable KPIs.
-- **Tech:** Python (FastAPI), React, PostgreSQL, and Metabase.
-- **Highlights:** ROI calculation for downtime, automated SLA tracking, and real-time data polling.
+A specialized architecture designed to revolutionize accounting workflows through intelligent automation and AI integration.
+- **Focus:** Scalable AI infrastructure for financial data processing.
+- **Goal:** Enhancing accuracy and efficiency in accounting through automated decision-making.
 
-👉 [View Repository](https://github.com/christiansousadev/itsm-dashboard-db)
+👉 [View AI Project Repository](https://github.com/christiansousadev/ChatContabil-Architecture)
+
+---
+
+## 🚀 Strategic Data Project: ITSM Health Dashboard
+**Operational Visibility & Financial Governance**
+
+A platform that transforms raw IT service data into strategic KPIs like ROI and automated SLA tracking.
+- **Tech:** FastAPI, React, PostgreSQL, and Metabase.
+
+👉 [View Dashboard Repository](https://github.com/christiansousadev/itsm-dashboard-db)
 
 ---
 
