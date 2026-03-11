@@ -94,7 +94,6 @@ A platform that transforms raw IT service data into strategic KPIs like ROI and 
 
 <div align='center'>
   <sub><b>Christian Sousa | 2026</b></sub> <br>
-  <img src="https://profile-counter.glitch.me/{christiansousadev}/count.svg" alt="Visitors Count" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
