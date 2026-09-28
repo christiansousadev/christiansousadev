@@ -3,12 +3,12 @@
 <h1 align="center"> Hi, there! I'm Christian Sousa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://madebychristian.fusaotecno.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Automation%20%26%20API%20Integration;Data%20%26%20LLMs%20Enthusiast;IT%20Governance%20Driven&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40">
+  <a href="https://christiansousa.dev/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Automation%20%26%20API%20Integration;Data%20%26%20LLMs%20Enthusiast;IT%20Governance%20Driven&font=Fira+Code&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=34">
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<hr/>
 
 ## 🧑‍💻 About Me
 
@@ -18,7 +18,7 @@
 - 🛠️ Expert in orchestrating processes, bridging the gap between complex data architectures and IT Governance.
 - 🧠 Deeply experienced in applying **LLMs** and machine learning to optimize accounting, financial, and operational workflows.
 
-- 🌐 Explore my full work: **[madebychristian.fusaotecno.com](https://madebychristian.fusaotecno.com/)**
+- 🌐 Explore my full work: **[christiansousa.dev](https://christiansousa.dev/)**
 
 <br>
 
@@ -80,8 +80,8 @@ A platform that transforms raw IT service data into strategic KPIs like ROI and 
 
 ## 📊 Github Stats
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiansousadev&layout=compact&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9" />
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=christiansousadev&show_icons=true&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=christiansousadev&layout=compact&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=christiansousadev&show_icons=true&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ A platform that transforms raw IT service data into strategic KPIs like ROI and 
 <p align="center">
 <a href="https://www.linkedin.com/in/christiansousasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://madebychristian.fusaotecno.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://christiansousa.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=react&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:christiansousadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
