@@ -57,6 +57,7 @@ A platform that transforms raw IT service data into strategic KPIs like ROI and 
 #### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -80,8 +81,8 @@ A platform that transforms raw IT service data into strategic KPIs like ROI and 
 
 ## 📊 Github Stats
 <p align="center">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=christiansousadev&layout=compact&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9" />
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=christiansousadev&show_icons=true&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats-rho-lac-58.vercel.app/api/top-langs/?username=christiansousadev&layout=compact&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&count_private=true" />
+  <img align="center" src="https://github-readme-stats-rho-lac-58.vercel.app/api?username=christiansousadev&show_icons=true&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&count_private=true" />
 </p>
 
 ---
