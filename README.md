@@ -24,7 +24,7 @@
 
 ## 🔥 Core Expertise
 
-- **Development & APIs:** Crafting scalable systems and RESTful APIs with **Python (FastAPI)** and **Node.js**.
+- **Development & APIs:** Crafting scalable systems and RESTful APIs com **Python (FastAPI)** e **Node.js**.
 - **AI & Automation:** Orchestrating complex workflows with **n8n** and integrating **LLMs** (GPT/Gemini) for intelligent decision-making.
 - **Data & Governance:** Designing robust data pipelines with **SQL (PostgreSQL)** and executive BI reporting via **Metabase** to ensure compliance and track SLAs.
 - **DevOps:** Containerization with **Docker** and managing cloud-ready environments on Linux.
@@ -81,7 +81,7 @@ A platform that transforms raw IT service data into strategic KPIs like ROI and 
 
 ## 📊 Github Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats-rho-lac-58.vercel.app/api/top-langs/?username=christiansousadev&layout=compact&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&count_private=true" />
+  <img align="center" src="https://github-readme-stats-rho-lac-58.vercel.app/api/top-langs/?username=christiansousadev&layout=compact&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&count_private=true&hide=html,css,blade" />
   <img align="center" src="https://github-readme-stats-rho-lac-58.vercel.app/api?username=christiansousadev&show_icons=true&bg_color=0d1117&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&count_private=true" />
 </p>
 
